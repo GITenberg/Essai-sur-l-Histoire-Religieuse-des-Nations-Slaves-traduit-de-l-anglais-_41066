@@ -1,0 +1,30 @@
+_repo: Essai-sur-l-Histoire-Religieuse-des-Nations-Slaves-traduit-de-l-anglais-_41066
+_version: 0.1.0
+alternative_title: Lectures on the religious history of the Slavonic nations. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krasinski, Valerian, Count, approximately 1780-1855
+    alias: Krasinski, Valérian
+    gutenberg_agent_id: '40960'
+    url: http://www.gutenberg.org/2009/agents/40960
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41066'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavs -- History'
+- !lcc 'BR'
+- !lcsh 'Slavs -- Religion'
+title: 'Essai sur l''Histoire Religieuse des Nations Slaves
+
+  (traduit de l''anglais)'
+url: http://www.gutenberg.org/ebooks/41066
